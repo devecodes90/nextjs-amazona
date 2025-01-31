@@ -1,5 +1,5 @@
 /*************  ✨ Codeium Command ⭐  *************/
-import { ShoppingCartIcon, UserIcon } from "lucide-react";
+import { ShoppingCartIcon } from "lucide-react";
 import Link from "next/link";
 
 
